@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.marginCenterLayout {
+  width: 85vw;
+  margin: auto;
+}
+
+.btn {
+  padding: 1rem 1.5rem;
+}
+
+.btn-primary {
+  background-color: #ff3269;
+  color: #fff;
+  border-radius: 8px;
+}
+
+.btn-product {
+  background-color: #fff;
+  border: 1px solid #ff3269;
+  color: #ff3269;
+  border-radius: 8px;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+}
